@@ -35,10 +35,10 @@
 
         lower_layer {
             bindings = <
-&mt F1 UNDERSCORE   &kp EXCLAMATION  &kp AT        &kp HASH      &kp DOLLAR    &kp PERCENT  &kp CARET     &kp AMPERSAND  &kp STAR  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &mt F12 EQUAL
-&mt LCTRL KP_MINUS  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5       &kp NUMBER_6  &kp N7         &kp N8    &kp N9                &kp N0                 &mt RCTRL PLUS
-&mt LALT UNDER      &kp F2           &kp F3        &kp F4        &kp F5        &kp F6       &kp F7        &kp F8         &kp F9    &kp F10               &kp F11                &mt RALT EQUAL
-                                                   &kp LEFT_GUI  &trans        &trans       &trans        &trans         &trans
+&mt F1 UNDERSCORE      &kp EXCLAMATION  &kp AT        &kp HASH      &kp DOLLAR    &kp PERCENT  &kp CARET     &kp AMPERSAND  &kp STAR  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &mt F12 EQUAL
+&mt LEFT_ALT KP_MINUS  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5       &kp NUMBER_6  &kp N7         &kp N8    &kp N9                &kp N0                 &mt RIGHT_ALT PLUS
+&mt LCTRL UNDER        &kp F2           &kp F3        &kp F4        &kp F5        &kp F6       &kp F7        &kp F8         &kp F9    &kp F10               &kp F11                &mt RCTRL EQUAL
+                                                      &kp LEFT_GUI  &trans        &trans       &trans        &trans         &trans
             >;
         };
 
