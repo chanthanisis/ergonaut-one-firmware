@@ -11,7 +11,7 @@ layers:
   - I
   - O
   - P
-  - {t: '[', h: ⌦}
+  - '['
   - {t: '`', h: LEFT ALT}
   - A
   - S
@@ -41,7 +41,7 @@ layers:
   - {t: ↹, h: lower}
   - {t: ENTER, h: raise}
   - {t: BACKSPACE, h: Shift}
-  - {t: Ctrl, h: lower}
+  - {t: ⌦, h: Ctrl}
   lower:
   - {t: _, h: F1}
   - '!'
