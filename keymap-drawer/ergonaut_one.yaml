@@ -36,12 +36,12 @@ layers:
   - .
   - /
   - {t: \, h: Ctrl}
-  - {t: ESCAPE, h: Ctrl}
+  - {t: ⌦, h: Ctrl}
   - {t: ␣, h: Shift}
   - {t: ↹, h: raise}
   - {t: ENTER, h: lower}
   - {t: BACKSPACE, h: Shift}
-  - {t: ⌦, h: Ctrl}
+  - {t: ESCAPE, h: Ctrl}
   lower:
   - {t: _, h: F1}
   - '!'
