@@ -67,7 +67,7 @@ layers:
   - '9'
   - '0'
   - {t: +, h: RIGHT ALT}
-  - {t: _, h: Ctrl}
+  - {t: F1, h: Ctrl}
   - F2
   - F3
   - F4
@@ -78,7 +78,7 @@ layers:
   - F9
   - F10
   - F11
-  - {t: '=', h: Ctrl}
+  - {t: F12, h: Ctrl}
   - {t: ESCAPE, h: LEFT GUI}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
