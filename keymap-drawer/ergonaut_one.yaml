@@ -37,10 +37,10 @@ layers:
   - /
   - {t: \, h: Ctrl}
   - {t: ESCAPE, h: Ctrl}
-  - {t: ␣, h: Shift}
+  - {t: BACKSPACE, h: Shift}
   - {t: ↹, h: lower}
   - {t: ENTER, h: raise}
-  - {t: BACKSPACE, h: Shift}
+  - {t: ␣, h: Shift}
   - {t: ⌦, h: Ctrl}
   lower:
   - {t: _, h: F1}
