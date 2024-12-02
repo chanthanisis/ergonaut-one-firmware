@@ -26,19 +26,19 @@
 
         default_layer {
             bindings = <
-&kp LEFT_BRACKET    &kp Q  &kp W  &kp E          &kp R            &kp T      &kp Y        &kp U                &kp I             &kp O    &kp P     &kp RIGHT_BRACKET
-&mt LEFT_ALT GRAVE  &kp A  &kp S  &kp D          &kp F            &kp G      &kp H        &kp J                &kp K             &kp L    &kp SEMI  &kp SQT
-&mt LEFT_GUI MINUS  &kp Z  &kp X  &kp C          &kp V            &kp B      &kp N        &kp M                &kp COMMA         &kp DOT  &kp FSLH  &mt RIGHT_ALT BSLH
-                                  &mt LCTRL DEL  &mt LSHFT SPACE  &lt 2 TAB  &lt 1 ENTER  &mt RSHFT BACKSPACE  &mt RCTRL ESCAPE
+&kp RIGHT_BRACKET        &kp Q  &kp W  &kp E          &kp R            &kp T      &kp Y        &kp U                &kp I             &kp O    &kp P     &kp LEFT_BRACKET
+&mt LEFT_ALT UNDERSCORE  &kp A  &kp S  &kp D          &kp F            &kp G      &kp H        &kp J                &kp K             &kp L    &kp SEMI  &kp SQT
+&mt LEFT_GUI MINUS       &kp Z  &kp X  &kp C          &kp V            &kp B      &kp N        &kp M                &kp COMMA         &kp DOT  &kp FSLH  &mt RIGHT_ALT BSLH
+                                       &mt LCTRL DEL  &mt LSHFT SPACE  &lt 2 TAB  &lt 1 ENTER  &mt RSHFT BACKSPACE  &mt RCTRL ESCAPE
             >;
         };
 
         lower_layer {
             bindings = <
-&mt F1 UNDERSCORE      &kp EXCLAMATION  &kp AT        &kp HASH             &kp DOLLAR    &kp PERCENT  &kp CARET     &kp AMPERSAND  &kp STAR  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &mt F12 EQUAL
-&mt LEFT_ALT KP_MINUS  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3         &kp NUMBER_4  &kp N5       &kp NUMBER_6  &kp N7         &kp N8    &kp N9                &kp N0                 &mt RIGHT_ALT PLUS
-&mt LCTRL F1           &kp F2           &kp F3        &kp F4               &kp F5        &kp F6       &kp F7        &kp F8         &kp F9    &kp F10               &kp F11                &mt RCTRL F12
-                                                      &mt LEFT_GUI ESCAPE  &trans        &trans       &trans        &trans         &trans
+&kp F1        &kp F2        &kp F3            &kp F4               &kp F5                &kp F6     &kp F7        &kp F8                 &kp F9           &kp F10            &kp F11  &kp F12
+&kp LEFT_ALT  &kp NUMBER_1  &kp NUMBER_2      &kp NUMBER_3         &kp NUMBER_4          &kp N5     &kp NUMBER_6  &kp N7                 &kp N8           &kp N9             &kp N0   &kp RIGHT_ALT
+&kp LCTRL     &kp F2        &kp LEFT_BRACKET  &kp LEFT_BRACE       &kp LEFT_PARENTHESIS  &kp EQUAL  &kp MINUS     &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp F11  &kp RCTRL
+                                              &mt LEFT_GUI ESCAPE  &trans                &trans     &trans        &trans                 &trans
             >;
         };
 
