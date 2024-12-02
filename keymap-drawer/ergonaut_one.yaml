@@ -12,7 +12,7 @@ layers:
   - O
   - P
   - '['
-  - LEFT ALT
+  - {t: '`', h: LEFT ALT}
   - A
   - S
   - D
@@ -35,7 +35,7 @@ layers:
   - ','
   - .
   - /
-  - {t: \, h: RIGHT ALT}
+  - \
   - {t: ⌦, h: Ctrl}
   - {t: ␣, h: Shift}
   - {t: ↹, h: raise}
