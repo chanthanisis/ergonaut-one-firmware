@@ -68,7 +68,7 @@ layers:
   - '0'
   - RIGHT ALT
   - LEFT GUI
-  - Ctrl
+  - +
   - '['
   - '{'
   - (
@@ -77,7 +77,7 @@ layers:
   - )
   - '}'
   - ']'
-  - Ctrl
+  - _
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
