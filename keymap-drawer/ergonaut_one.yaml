@@ -12,7 +12,7 @@ layers:
   - O
   - P
   - '['
-  - {t: ']', h: LEFT ALT}
+  - LEFT ALT
   - A
   - S
   - D
@@ -24,7 +24,7 @@ layers:
   - L
   - ;
   - ''''
-  - {t: '-', h: LEFT GUI}
+  - LEFT GUI
   - Z
   - X
   - C
@@ -68,16 +68,16 @@ layers:
   - '0'
   - RIGHT ALT
   - LEFT GUI
-  - _
   - '-'
   - '['
   - '{'
   - (
+  - _
+  - '='
   - )
   - '}'
   - ']'
   - +
-  - '='
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
