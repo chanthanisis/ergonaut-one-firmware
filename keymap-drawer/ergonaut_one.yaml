@@ -37,9 +37,9 @@ layers:
   - /
   - \
   - {t: ⌦, h: Ctrl}
-  - {t: ␣, h: Shift}
-  - {t: ↹, h: raise}
-  - {t: ENTER, h: lower}
+  - {t: ␣, h: LEFT GUI}
+  - {t: ↹, h: lower}
+  - {t: ENTER, h: raise}
   - {t: BACKSPACE, h: Shift}
   - {t: ESCAPE, h: Ctrl}
   lower:
@@ -81,8 +81,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   raise:
@@ -124,8 +124,8 @@ layers:
   - Alt
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   adjust:
