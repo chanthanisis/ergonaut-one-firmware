@@ -37,8 +37,8 @@ layers:
   - /
   - \
   - {t: ⌦, h: Ctrl}
-  - {t: ␣, h: LEFT GUI}
-  - {t: ↹, h: lower}
+  - {t: ␣, h: lower}
+  - {t: ↹, h: LEFT GUI}
   - {t: ENTER, h: raise}
   - {t: BACKSPACE, h: Shift}
   - {t: ESCAPE, h: Ctrl}
@@ -80,8 +80,8 @@ layers:
   - +
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -104,8 +104,8 @@ layers:
   - KP 5
   - KP 6
   - KP PLUS
-  - MUTE
   - ←
+  - ↓
   - ↑
   - →
   - Insert
@@ -118,7 +118,7 @@ layers:
   - KP DOT
   - Vol Down
   - End
-  - ↓
+  - MUTE
   - Page Down
   - Pause Break
   - Alt
@@ -166,8 +166,8 @@ layers:
   - ''
   - Reset
   - {t: ▽, type: trans}
-  - ''
   - {type: held}
+  - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
