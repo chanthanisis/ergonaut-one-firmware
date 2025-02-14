@@ -12,7 +12,7 @@ layers:
   - O
   - P
   - '['
-  - LEFT ALT
+  - ']'
   - A
   - S
   - D
@@ -24,7 +24,7 @@ layers:
   - L
   - ;
   - ''''
-  - ']'
+  - LEFT SHIFT
   - Z
   - X
   - C
@@ -37,11 +37,11 @@ layers:
   - /
   - \
   - {t: ⌦, h: Ctrl}
-  - {t: ␣, h: lower}
+  - {t: ␣, h: RIGHT SHIFT}
   - {t: ↹, h: LEFT GUI}
   - {t: ENTER, h: raise}
-  - {t: BACKSPACE, h: Shift}
-  - {t: ESCAPE, h: Ctrl}
+  - {t: BACKSPACE, h: lower}
+  - {t: ESCAPE, h: Alt}
   lower:
   - F1
   - F2
@@ -80,10 +80,10 @@ layers:
   - +
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   raise:
   - {t: KP NUM, h: Gui}
@@ -166,8 +166,8 @@ layers:
   - ''
   - Reset
   - {t: ▽, type: trans}
-  - {type: held}
+  - ''
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
