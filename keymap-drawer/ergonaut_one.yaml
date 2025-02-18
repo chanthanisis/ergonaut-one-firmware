@@ -12,7 +12,7 @@ layers:
   - O
   - P
   - '['
-  - ']'
+  - LEFT ALT
   - A
   - S
   - D
@@ -24,7 +24,7 @@ layers:
   - L
   - ;
   - ''''
-  - {t: adjust, h: toggle}
+  - ']'
   - Z
   - X
   - C
@@ -41,7 +41,7 @@ layers:
   - {t: ↹, h: LEFT GUI}
   - {t: ENTER, h: raise}
   - {t: BACKSPACE, h: lower}
-  - {t: ESCAPE, h: Alt}
+  - {t: ESCAPE, h: Ctrl}
   lower:
   - F1
   - F2
