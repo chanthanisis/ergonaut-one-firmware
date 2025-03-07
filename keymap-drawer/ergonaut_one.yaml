@@ -38,10 +38,10 @@ layers:
   - /
   - \
   - {t: ⌦, h: Ctrl}
-  - {t: BACKSPACE, h: RIGHT SHIFT}
+  - {t: ␣, h: RIGHT SHIFT}
   - {t: ↹, h: LEFT GUI}
   - {t: ENTER, h: raise}
-  - {t: ␣, h: lower}
+  - {t: BACKSPACE, h: lower}
   - {t: ESCAPE, h: Ctrl}
   lower:
   - F1
